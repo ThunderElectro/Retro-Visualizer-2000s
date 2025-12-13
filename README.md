@@ -4,11 +4,6 @@
 
 Made with vibes with GA ❤️
 
-
-## 📥 Downloads
-- **[Download for macOS](Retro-darwin-x64.zip)** (Universal)
-- **[Download for Windows](Retro-win32-x64.zip)** (x64)
-
 ---
 
 ## 🚀 Quick Start
