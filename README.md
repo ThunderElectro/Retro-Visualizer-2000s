@@ -1,21 +1,35 @@
-# 🎵 Retro Audio Visualizer 2000
+ 📼 Retro
 
-A Chrome extension that transforms browser audio into stunning retro visualizations. Features 20 unique modes including VHS effects, oscilloscopes, vinyl records, synthwave landscapes, and a stock market graph that reacts to music.
+> A standalone Y2K aesthetic audio visualizer for your desktop.
 
-**Features:**
-- 🎨 20 visualizer modes (VHS, CRT, Vinyl, Stocks, Neon Waves, etc.)
-- 🎚️ Customizable colors, sensitivity, and effects
-- 🔊 Real-time audio capture from any browser tab
-- 🌈 6 color schemes with glow effects
-- 📺 Authentic retro aesthetics (80s/90s/Y2K)
+Made with vibes with GA ❤️
 
-**Installation:**
-1. Clone repo
-2. Open Chrome → `chrome://extensions/`
-3. Enable "Developer mode"
-4. Click "Load unpacked" → Select folder
-5. Play audio in any tab → Click extension → Start visualizing!
 
-Perfect for music lovers, streamers, and anyone who misses the golden age of Winamp and Windows Media Player visualizations.
+## 📥 Downloads
+- **[Download for macOS](Retro-darwin-x64.zip)** (Universal)
+- **[Download for Windows](Retro-win32-x64.zip)** (x64)
 
-Made with vibes w/GA ❤️
+---
+
+## 🚀 Quick Start
+
+### 🍎 macOS
+1.  **Open** the `Retro.app`.
+2.  **Allow** microphone access when prompted.
+3.  *Trouble opening?* Right-click the app > Select **Open** > Click **Open** again.
+
+### 🪟 Windows
+1.  **Run** the `Retro.exe`.
+2.  *Blue window warning?* Click **More Info** -> **Run Anyway**.
+
+---
+
+## 🎵 How to See System Audio
+Want to visualize Spotify or YouTube instead of your mic?
+
+*   **macOS:** Install [BlackHole](https://existential.audio/blackhole/) and select it as the input in the app.
+*   **Windows:** Enable "Stereo Mix" in your Sound Control Panel and select it as the input.
+
+------
+
+**Copyright © 2025 IOkeyless**
